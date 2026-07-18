@@ -1,8 +1,8 @@
-📊 ##HR Analytics Dashboard (Power BI)
+#📊 HR Analytics Dashboard (Power BI)
 📌 Project Overview
 This project focuses on analyzing HR data to uncover workforce insights and support data‑driven decision‑making. The dashboard provides a clear view of employee performance, attrition, recruitment efficiency, and engagement trends.
 
-##🎯 Objectives
+**🎯 Objectives
 Track key HR metrics such as attrition rate, average tenure, and recruitment efficiency
 
 Identify workforce trends across departments, roles, and demographics
